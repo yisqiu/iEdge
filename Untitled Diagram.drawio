@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T01:08:40.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" version="17.4.6" etag="OP8T-OIiqMKkRrp3m8_W" type="github"><diagram id="OqNRYARwi0OO5pbd3fXT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-17T01:23:14.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="K7n-Fw_uYGeEZL6kLSjb" version="17.4.6" type="github">
+  <diagram id="OqNRYARwi0OO5pbd3fXT" name="Page-1">
+    <mxGraphModel dx="1422" dy="914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-1" value="图书馆党委" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="294" y="200" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=22;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="uOsbefwq3MWyIZOblxYZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409" y="300" as="sourcePoint" />
+            <mxPoint x="444" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-7" value="图书馆第一支部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="241" y="350" width="30" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-8" value="图书馆第二支部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="30" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-9" value="图书馆第三支部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="393.5" y="350" width="30" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-10" value="图书馆第四支部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="481" y="350" width="30" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-11" value="图书馆退休支部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="563" y="350" width="30" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-12" value="" style="endArrow=none;html=1;rounded=0;fontSize=22;strokeWidth=4;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="254" y="300" as="sourcePoint" />
+            <mxPoint x="580" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="uOsbefwq3MWyIZOblxYZ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="256" y="300" as="sourcePoint" />
+            <mxPoint x="180" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="uOsbefwq3MWyIZOblxYZ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="300" as="sourcePoint" />
+            <mxPoint x="279" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="uOsbefwq3MWyIZOblxYZ-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409" y="300" as="sourcePoint" />
+            <mxPoint x="278" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="uOsbefwq3MWyIZOblxYZ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="496" y="300" as="sourcePoint" />
+            <mxPoint x="434.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOsbefwq3MWyIZOblxYZ-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="uOsbefwq3MWyIZOblxYZ-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="578" y="300" as="sourcePoint" />
+            <mxPoint x="446.5" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
